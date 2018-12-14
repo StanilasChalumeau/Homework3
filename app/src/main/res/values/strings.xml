@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="msg">Put your finger to the light sensor to launch the prediction</string>
+
+</resources>
